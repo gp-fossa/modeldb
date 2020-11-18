@@ -8,6 +8,7 @@
   <a href="https://pypi.org/project/verta/">
     <img src="https://img.shields.io/pypi/v/verta?color=534eb5&style=plastic" alt="PyPI" />
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fgp-fossa%2Fmodeldb?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgp-fossa%2Fmodeldb.svg?type=shield"/></a>
   <a href="https://anaconda.org/conda-forge/verta">
     <img src="https://img.shields.io/conda/v/conda-forge/verta?color=534eb5&style=plastic" alt="Conda" />
   </a>
@@ -75,6 +76,9 @@ If you are looking for a hosted version of ModelDB, please reach out at modeldb@
 This version of ModelDB is built upon its predecessor from [CSAIL, MIT](https://www.csail.mit.edu/). The previous version can be found on Github [here](https://github.com/VertaAI/modeldb/releases/tag/v1.0.0). The ModelDB project is now maintained by [Verta.ai](https://verta.ai).
 
 ----
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgp-fossa%2Fmodeldb.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgp-fossa%2Fmodeldb?ref=badge_large)
 
 ## What’s In This Document
 
